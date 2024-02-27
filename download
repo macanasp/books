@@ -1,0 +1,1 @@
+for i in {001..348}; do wget --load-cookies cookies.txt "https://ia800205.us.archive.org/BookReader/BookReaderImages.php?https://archive.org/details/quelamuerteesper0000cast/page/n347/mode/2up$i.jp2" -O $i.jpg; done
